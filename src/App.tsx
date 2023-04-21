@@ -1,12 +1,11 @@
 import './App.css'
 
 function App() {
-
-//const text = "EQAf6CHgA3yEizLCEt95JNJqDt2Hw-EvCXW3LSSfQXz_myn-"
+//All interfaces codes will be displayed here
   return (
     <div className="App">
-      <h1>Hello World from Ton </h1>
-      
+    <h1>Hello World from Ton </h1>
+       
     </div>
   )
 }
